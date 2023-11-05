@@ -1,4 +1,4 @@
-### Hi there 👋
+# 안녕하세요 코딩하고 사는 학생입니다 👋
 
 <!--
 **vanillaPenguin/vanillaPenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
